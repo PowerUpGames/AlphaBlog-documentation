@@ -1,5 +1,6 @@
-AlphaBlog Indie Game Devblog Theme for Tumblr
+AlphaBlog Theme Documentation
 ==============
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
 
 # Welcome!
 
@@ -13,7 +14,7 @@ We welcome your feedback, complaints, high-fives, and critiques. Feel free to em
 
 # Installing the Theme
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.youtube.com/embed/ovt1BPox-p0?modestbranding=1&rel=0&showinfo=0&theme=light' frameborder='0' allowfullscreen></iframe></div>
+<p><div class='embed-container'><iframe src='http://www.youtube.com/embed/ovt1BPox-p0?modestbranding=1&rel=0&showinfo=0&theme=light' frameborder='0' allowfullscreen></iframe></div></p>
 We've made installing the theme as simple as we possibly can.
 
 1. Log in to Tumblr.
@@ -127,7 +128,7 @@ Enter the Facebook user IDs of any users who should have access to Facebook insi
 
 ## Disqus Shortname
 
-<div class='embed-container'><iframe src='http://www.youtube.com/embed/qkiPNHS7aSw?modestbranding=1&rel=0&showinfo=0&theme=light' frameborder='0' allowfullscreen></iframe></div>
+<p><div class='embed-container'><iframe src='http://www.youtube.com/embed/qkiPNHS7aSw?modestbranding=1&rel=0&showinfo=0&theme=light' frameborder='0' allowfullscreen></iframe></div></p>
 
 If you want to allow readers to comment on your posts, you can with AlphaBlog's Disqus support.
 
