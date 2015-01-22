@@ -1,4 +1,4 @@
-AlphaBlog Indie Game Devblog Theme for Tumblr
+AlphaBlog Theme Documentation
 ==============
 
 # Welcome!
