@@ -15,6 +15,7 @@ We welcome your feedback, complaints, high-fives, and critiques. Feel free to em
 # Installing the Theme
 
 <p><div class='embed-container'><iframe src='http://www.youtube.com/embed/ovt1BPox-p0?modestbranding=1&rel=0&showinfo=0&theme=light' frameborder='0' allowfullscreen></iframe></div></p>
+
 We've made installing the theme as simple as we possibly can.
 
 1. Log in to Tumblr.
