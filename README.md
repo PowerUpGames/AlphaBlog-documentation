@@ -196,7 +196,7 @@ AlphaBlog has been tested with the browsers listed below. We do not guarantee co
 **Development**
 [Devon Campbell](http://raddevon.com/)
 
-**Special Thanks**
+## Special Thanks
 
 **Illustrations for Promotional Screenshots and Preview**
 [Stefano Patanè](http://mokarobota.deviantart.com/)
