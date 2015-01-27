@@ -142,3 +142,45 @@ You'll now see comments on each post page and an icon at the bottom of each post
 ## Google Analytics ID
 
 Register your site for Google Analytics and enter the site's ID here to start learning more about your visitors, how they get to your site, and what content they like best.
+
+# Deep Customization
+
+The theme is linked to minified versions of the stylesheets and JavaScript to make your site load faster, but we've also provided in the archive the development versions of those files so that they can be customized.
+
+Make your customizations on the development versions (style.css and scripts.js). Then, from Tumblr's HTML editor, click the gear and open the Theme Assets panel. You'll need to upload your customized files and link them in the HTML instead of the original minified files. 
+
+Use find (Ctrl-F or Cmd-F) to look for style.min.css and scripts.min.css in the theme's HTML inside the Tumblr editor. Delete those file paths and use the Insert links inside the theme assets panel to replace with the paths to your customized files.
+
+# Browser Compatibility
+
+AlphaBlog has been tested with the browsers listed below. We do not guarantee compatibility with any other browsers, but, if you have problems with a particular browser (whether listed here or not), [send us an email](mailto:devon@powerupgames.io) and we will see if we can find a solution.
+
+## Windows
+
+* Internet Explorer 9 *(slightly different appearance than in modern browsers)*
+* Internet Explorer 10
+* Chrome 22+
+* Firefox 22+
+* Opera 12.12+
+
+## Mac OSX
+
+* Chrome 17+
+* Firefox 22+
+* Opera 12.12+
+* Safari 6+
+
+## iOS
+
+* Mobile Safari 7+
+
+*Note: Since iOS browsers must use Mobile Safari for rendering, compatibility with all iOS browsers follows from Mobile Safari compatibility.*
+
+## Android
+
+* Android Browser 4.4
+* Chrome Mobile 27+
+* Dolphin Mobile 11.3
+* Firefox Mobile 21+
+* Opera Mobile 12+
+* UC Browser 3.4 (share menu doesn't pop up; otherwise functional)
