@@ -184,3 +184,17 @@ AlphaBlog has been tested with the browsers listed below. We do not guarantee co
 * Firefox Mobile 21+
 * Opera Mobile 12+
 * UC Browser 3.4 (share menu doesn't pop up; otherwise functional)
+
+# Credits
+
+**A Theme By**
+[PowerUp Games](http://powerupgames.io/)
+
+**Design**
+[Manuele Capacci](http://manuelecapacci.com/) & [Elena Capellini](http://elenacapellini.com/)
+
+**Development**
+[Devon Campbell](http://raddevon.com/)
+
+**Illustrations for Promotional Screenshots and Preview**
+[Stefano Patanè](http://mokarobota.deviantart.com/)
